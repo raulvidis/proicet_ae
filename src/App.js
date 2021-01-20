@@ -16,7 +16,7 @@ const App = () => {
   const [addToCart, setAddToCart] = useState('0');
 
   const handleCart = () => {
-    setAddToCart('extraordinar')
+    setAddToCart('1')
   }
 
   const clearInputs = () => {
